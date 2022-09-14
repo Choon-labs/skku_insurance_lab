@@ -1,2 +1,2 @@
-# skku_insurance_lab
-Insurance Data Analystics
+# SKKU_Personal_Labs
+ML&DL
